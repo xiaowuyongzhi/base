@@ -15,3 +15,4 @@ marshmallow                   == 3.8.0
 flasgger                      == 0.9.5
 aliyun-python-sdk-dysmsapi    == 2.1.1
 aliyun-python-sdk-core-v3     == 2.13.11
+aliyun-python-sdk-sts         == 3.0.2
